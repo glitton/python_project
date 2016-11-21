@@ -1,0 +1,9 @@
+# create csv list containing reef info
+# ask user their ability
+# compare answer with reef list
+# print out reef aligned with their ability
+
+#Phase 2
+# Ask user about desired depth
+# Ask user about photography desire, macro or wide-angle
+# print out reef aligned with their ability and photgraphy goals
